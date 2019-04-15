@@ -29,7 +29,7 @@
             <ImageView
                     android:layout_width="141dp"
                     android:layout_height="117dp" app:srcCompat="@drawable/ic_grupo_99"
-                    tools:layout_editor_absoluteY="242dp" tools:layout_editor_absoluteX="58dp"
+                    tools:layout_editor_absoluteY="228dp" tools:layout_editor_absoluteX="58dp"
                     android:id="@+id/imageView3" android:rotation="180"/>
         </android.support.constraint.ConstraintLayout>
     </android.support.constraint.ConstraintLayout>
